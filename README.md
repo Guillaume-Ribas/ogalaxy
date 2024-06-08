@@ -1,3 +1,7 @@
+# Présentation
+
+Projet de fin de formation réalisé dans le cadre de l'apothéose au sein de l'École O'clock.
+
 # O'Galaxy - To inifnity and beyond
 
 Bienvenue sur le site web de O'Galaxy, l'agence de voyage intergalactique qui repousse les limites de l'exploration spatiale en combinant une expertise de pointe avec une passion pour l'univers de Star Wars.
